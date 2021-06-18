@@ -8,6 +8,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![expence_project1](https://user-images.githubusercontent.com/65341290/122556550-47311d80-d059-11eb-9dab-d6685145874b.jpg)
-![expence_project2](https://user-images.githubusercontent.com/65341290/122556555-49937780-d059-11eb-885e-f0c2a31b3f5e.jpg)
+![expence_project1](https://user-images.githubusercontent.com/65341290/122556550-47311d80-d059-11eb-9dab-d6685145874b.jpg alt="drawing" width="200")
+![expence_project2](https://user-images.githubusercontent.com/65341290/122556555-49937780-d059-11eb-885e-f0c2a31b3f5e.jpg alt="drawing" width="200")
 
