@@ -20,5 +20,10 @@ Adaptive interface that changes buttons and toolbar depending on whether the use
 <img src="https://user-images.githubusercontent.com/65341290/122556555-49937780-d059-11eb-885e-f0c2a31b3f5e.jpg" alt="drawing" width="200"/>
 </p>
 
+# Rum the app on your machine
+Clone this repository or download the zip file.
+Connect your Android or Apple device to your local machine and make sure it is in developer mode (Android) or it is trusted (Apple). Alternatively, you can open a virtual device in Android Studio and/or Xcode.  
+In a command line, go to the project directory on your computer (wherever your cloned it to, or extracted the zip file) and type: flutter pub get
+In the same command line, in the same directory, type: flutter run
 
 
